@@ -1,0 +1,92 @@
+header {
+    border-bottom: 3px solid lightgray;
+    height: 60px;
+}
+
+img {
+    width: 150px;
+    height: 50px;
+}
+
+.logo {
+    text-align: center;
+}
+
+.form {
+    border: 3px solid lightgray;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 15px;
+    width: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    border-bottom: 2px solid #3cb371;
+    text-align: center;
+}
+
+.form_contents {
+    padding-left: 20px;
+    padding-bottom: 30px;
+    
+}
+
+.green_hilight {
+    background-color: #3cb371;
+    color: white;
+    border-radius: 5px;
+    width: max-content;
+    display: inline-block;
+    padding-right: 5px;
+    padding-left: 5px;
+    margin-right: 5px
+}
+
+label {
+    display: inline-block;
+}
+
+.submit {
+    background-color: #3cb371;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 5px;
+    padding-top: 6px 40px 4px 40px;
+    padding-bottom: 20px;
+}
+
+.button {
+    text-align: center;
+}
+
+footer {
+    border-top: 3px solid lightgray;
+    text-align: center;
+}
+
+.button1 {
+    background-color: lightgray;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    padding: 6px 40px 4px 40px;
+    
+}
+
+.button2 {
+    background-color: #3cb371;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 30px;
+    padding: 6px 40px 4px 40px;
+    
+}
+
+.button3 {
+    display: inline-block;
+}

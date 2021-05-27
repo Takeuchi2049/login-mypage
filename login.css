@@ -1,0 +1,63 @@
+header {
+    border-bottom: 3px solid lightgray;
+    height: 60px;
+    text-align: center;
+}
+
+img {
+    width: 150px;
+    height: 50px;
+}
+
+.form_contents {
+    border: 3px solid lightgray;
+    border-radius: 5px;
+    margin: 0 auto;
+    padding: 15px;
+    width: 30%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding-top: 30px;
+}
+
+.mail .password .login_check .login_button{
+    text-align: center;
+}
+
+.login_button {
+    text-align: center;
+    padding: 20px;
+}
+
+.submit_button {
+    background-color: #3cb371;
+    color: white;
+    border-radius: 5px;
+    width: 200px;
+    height: 5px;
+    padding-top: 6px 40px 4px 40px;
+    padding-bottom: 20px;
+}
+
+footer {
+    border-top: 3px solid lightgray;
+    text-align: center;
+}
+
+.mail {
+    padding: 20px;
+}
+
+.password {
+    padding: 20px;
+}
+
+.login_check {
+    padding: 20px;
+}
+
+.error_message {
+    color: red;
+    background-color: lightpink;
+    text-align: center;
+}
